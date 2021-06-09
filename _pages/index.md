@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Welcome
 permalink: /
 ---
+
+<h1>Welcome!</h1>
 
 Hello!
